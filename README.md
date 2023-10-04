@@ -2,10 +2,6 @@
 
 使用此仓库，可以初步了解PyTorch的用法，也可以自己试着去训练模型。适合入门用户使用。
 
-这是鼠鼠第一次在Github上传东西！
-
-鼠鼠的b站([榆关海的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/51144635?spm_id_from=333.1007.0.0))
-
 网络结构代码是自己照着教程写的
 
 训练代码是用https://github.com/ChawDoe/LeNet5-MNIST-PyTorch改的
